@@ -1,0 +1,11 @@
+.list ul {
+  list-style: none;
+  padding: 0 0.5rem;
+}
+
+.list li {
+  margin: 1rem;
+  padding: 0.5rem;
+  border-radius: 1rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.26);
+}
